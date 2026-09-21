@@ -31,6 +31,10 @@ if (is.null(input)) {
   stop("Missing required argument: --input", call. = FALSE)
 }
 
+if (is.null(max_missing)) {
+  stop("Missing required argument: --max_missing", call. = FALSE)
+}
+
 if (is.null(clustering_method)) {
   stop("Missing required argument: --clustering_method", call. = FALSE)
 }
