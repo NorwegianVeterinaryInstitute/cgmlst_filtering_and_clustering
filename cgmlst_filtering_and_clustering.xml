@@ -1,6 +1,6 @@
 <tool id="cgmlst_filtering_and_clustering"
       name="cgMLST filtering and clustering"
-      version="1.0.0"
+      version="1.0.3"
       profile="22.05">
 
     <description>
