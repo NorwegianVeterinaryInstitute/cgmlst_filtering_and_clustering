@@ -11,13 +11,13 @@ long_description: |
 categories:
   - Phylogenetics
   - Sequence Analysis
-  - Microbiology
+  
 remote_repository_url: https://github.com/NorwegianVeterinaryInstitute/cgmlst_filtering_and_clustering
 homepage_url: https://github.com/NorwegianVeterinaryInstitute/cgmlst_filtering_and_clustering
 type: unrestricted
 auto_tool_repositories:
   name_template: "{{ tool_id }}"
-  description_template: "{{ tool_name }}"
+  description_template: "Wrapper for application: {{ tool_name }}."
 suite:
   name: suite_cgmlst_filtering_and_clustering
   description: Suite for cgMLST filtering and clustering
