@@ -64,7 +64,6 @@ Rscript '$__tool_directory__/filter_and_cluster.R'
         </param>
 
     </inputs>
-
     <outputs>
 
         <data name="dissimilarity_matrix"
@@ -80,7 +79,6 @@ Rscript '$__tool_directory__/filter_and_cluster.R'
               label="cgMLST tree"/>
 
     </outputs>
-
     <tests>
 
         <test expect_num_outputs="3">
