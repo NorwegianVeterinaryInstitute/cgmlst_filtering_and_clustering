@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/NorwegianVeterinaryInstitute/cgmlst_filtering_and_clustering/compare/v1.0.3...v1.0.4) (2026-10-30)
+
+
+### Bug Fixes
+
+* reverted changes to the xml file ([#14](https://github.com/NorwegianVeterinaryInstitute/cgmlst_filtering_and_clustering/issues/14)) ([cd11fee](https://github.com/NorwegianVeterinaryInstitute/cgmlst_filtering_and_clustering/commit/cd11fee8048ea0a21f959665b9748bc08417b817))
+
 ## [1.0.3](https://github.com/NorwegianVeterinaryInstitute/cgmlst_filtering_and_clustering/compare/v1.0.2...v1.0.3) (2026-09-21)
 
 
