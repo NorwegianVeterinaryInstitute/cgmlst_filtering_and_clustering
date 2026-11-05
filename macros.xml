@@ -5,7 +5,15 @@
 
     <xml name="requirements">
         <requirements>
-            <container type="docker">evezeyl/cgmlst_filtering_clustering</container>
+            <requirement type="package" version="4.4.0">r-base</requirement>
+            <requirement type="package" version="2.2.0">r-readr</requirement>
+            <requirement type="package" version="1.2.1">r-dplyr</requirement>
+            <requirement type="package" version="1.3.2">r-tidyr</requirement>
+            <requirement type="package" version="3.3.1">r-tibble</requirement>
+            <requirement type="package" version="2.1.8.2">r-cluster</requirement>
+            <requirement type="package" version="1.2.2">r-purrr</requirement>
+            <requirement type="package" version="5.8_1">r-ape</requirement>
+            <requirement type="package" version="1.6.0">r-stringr</requirement>
         </requirements>
     </xml>
 
