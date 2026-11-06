@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.0.6](https://github.com/NorwegianVeterinaryInstitute/cgmlst_filtering_and_clustering/compare/v1.0.5...v1.0.6) (2026-11-05)
+
+
+### Bug Fixes
+
+* reverted back to old requirements to match generated image hash ([#20](https://github.com/NorwegianVeterinaryInstitute/cgmlst_filtering_and_clustering/issues/20)) ([134b52d](https://github.com/NorwegianVeterinaryInstitute/cgmlst_filtering_and_clustering/commit/134b52d6117b6a8c57a5abc2f7301cc17f8ed4d3))
+
+## [1.0.5](https://github.com/NorwegianVeterinaryInstitute/cgmlst_filtering_and_clustering/compare/v1.0.4...v1.0.5) (2026-11-03)
+
+
+### Bug Fixes
+
+* switched to docker image ([#17](https://github.com/NorwegianVeterinaryInstitute/cgmlst_filtering_and_clustering/issues/17)) ([517087f](https://github.com/NorwegianVeterinaryInstitute/cgmlst_filtering_and_clustering/commit/517087ffc58ce8e01ad7912e56efa7d8b1fb5a1a))
+
 ## [1.0.4](https://github.com/NorwegianVeterinaryInstitute/cgmlst_filtering_and_clustering/compare/v1.0.3...v1.0.4) (2026-10-30)
 
 
